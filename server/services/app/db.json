@@ -1,0 +1,395 @@
+{
+  "posts": [
+    {
+      "title": "PermataBank Adopsi ",
+      "slug": "PermataBank-Adopsi-",
+      "content": "tabloidkuota.id - Peningkatan perdagangan internasional, ditopang dengan perkembangan teknologi yang sangat cepat, mendorong bank untuk selalu mengembangkan inovasi dalam layanan perbankan agar tetap relevan mengikuti perkembangan jaman dan kebutuhan pasar. Semakin meningkatnya kesadaran untuk menjaga ketahanan lingkungan, mendorong PermataBank dan Bangkok Bank berkolaborasi untuk mengetengahkan perkembangan teknologi yang ramah dengan keberlanjutan lingkungan.",
+      "authorId": 1,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Sebelum Beli, Kenali 5 Fakta Menarik POCO M5",
+      "slug": "Sebelum-Beli-Kenali-5-Fakta-Menarik-POCO-M5",
+      "content": "tabloidkuota - Dikabarkan punya performa yang ekstrem di atas rata-rata smartphone lain di kelasnya, POCO M5 benar-benar bikin ngiler. \n Apalagi harganya juga paling ekstrem, dua jutaan rupiah aja! \n Tapi jangan jatuh cinta buta, kenali lebih dalam fakta-fakta seputar smartphone yang satu ini, yuk. ",
+      "imgUrl": "https://tabloidpulsa.id/wp-content/uploads/2022/12/POCO-M5-MediaTek-Helio-G99-640x360.webp",
+      "CategoryId": 2,
+      "AuthorId": 2,
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Launching OPPO Find N2 Flip di Indonesia Bawa Konsep Berbeda",
+      "slug": "Launching-OPPO-Find-N2-Flip-di-Indonesia-Bawa-Konsep-Berbeda",
+      "content": "tabloidkuota - Berbeda dari sejumlah peluncuran produk ponsel yang dilaksanakan sebelumnya, OPPO menghadirkan Find N2 Flip di 10 Mei 2023 lalu dalam rangkaian acara unik dengan mengusung konsep menonton film pendek bersama, lalu dilanjutkan dengan device experience dan pagelaran fashion show yang dimeriahkan oleh sejumlah tamu undangan dari kalangan selebritis.",
+      "imgUrl": "https://tabloidpulsa.id/wp-content/uploads/2023/05/Fashion-Show-1-640x360.webp",
+      "CategoryId": 3,
+      "AuthorId": 2,
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Sony ZV-E1 Kamera Vlog Full-frame Terbaru Seharga Rp 35 Jutaan",
+      "slug": "Sony-ZV-E1-Kamera-Vlog-Full-frame-Terbaru-Seharga-Rp-35-Jutaan",
+      "content": "tabloidpulsa.id – Sony memperkenalkan ZV-E1 terbaru, kamera vlog dengan lensa yang dapat ditukar dengan sensor gambar full-frame 35mm berperforma tinggi untuk pengalaman pembuatan konten terbaik. \n Diposisikan di atas pada jajaran kamera Vlog Sony, kamera ini menawarkan E-mount Sony, teknologi canggih, gambar sinematik dengan performa gradasi yang kaya, noise rendah, dan sensitivitas tinggi.",
+      "imgUrl": "https://tabloidpulsa.id/wp-content/uploads/2023/05/Sony-ZV-E1-640x360.webp",
+      "CategoryId": 4,
+      "AuthorId": 2,
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "USB-C Hub Premium ANKER 552, Solusi Praktis Keterbatasan Konektivitas",
+      "slug": "USB-C-Hub-Premium-ANKER-552-Solusi-Praktis-Keterbatasan-Konektivitas",
+      "content": "tabloidpulsa.id – Sony memperkenalkan ZV-E1 terbaru, kamera vlog dengan lensa yang dapat ditukar dengan sensor gambar full-frame 35mm berperforma tinggi untuk pengalaman pembuatan konten terbaik. \n Diposisikan di atas pada jajaran kamera Vlog Sony, kamera ini menawarkan E-mount Sony, teknologi canggih, gambar sinematik dengan performa gradasi yang kaya, noise rendah, dan sensitivitas tinggi. ",
+      "imgUrl": "https://tabloidpulsa.id/wp-content/uploads/2023/05/ANKER-552-640x360.webp",
+      "CategoryId": 5,
+      "AuthorId": 2,
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "title": "ini post",
+      "imgUrl": "ini gambar",
+      "CategoryId": 1,
+      "content": "ini bio",
+      "authorId": 1,
+      "slug": "ini-post",
+      "id": 6
+    },
+    {
+      "title": "ini post",
+      "imgUrl": "ini gambar",
+      "CategoryId": 2,
+      "content": "ini bio",
+      "authorId": 1,
+      "slug": "ini-post",
+      "id": 7
+    },
+    {
+      "title": "ini post",
+      "imgUrl": "ini gambar",
+      "CategoryId": 3,
+      "content": "ini bio",
+      "authorId": 1,
+      "slug": "ini-post",
+      "id": 8
+    },
+    {
+      "title": "ini post",
+      "imgUrl": "ini gambar",
+      "CategoryId": 4,
+      "content": "ini bio",
+      "authorId": 1,
+      "slug": "ini-post",
+      "id": 9
+    },
+    {
+      "title": "ini post",
+      "imgUrl": "ini gambar",
+      "CategoryId": 5,
+      "content": "ini bio",
+      "authorId": 1,
+      "slug": "ini-post",
+      "id": 10
+    },
+    {
+      "title": "ini post",
+      "imgUrl": "ini gambar",
+      "CategoryId": 1,
+      "content": "ini bio",
+      "authorId": 1,
+      "slug": "ini-post",
+      "id": 11
+    },
+    {
+      "title": "ini post",
+      "imgUrl": "ini gambar",
+      "CategoryId": 1,
+      "content": "ini bio",
+      "authorId": 1,
+      "slug": "ini-post",
+      "id": 12
+    },
+    {
+      "title": "ini postssssssssssss",
+      "imgUrl": "https://cdn0-production-images-kly.akamaized.net/Eqy7cjRkUyvUQ_07BbytcLGgGcw=/640x360/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2858933/original/020804300_1563620841-tuiko.jpg",
+      "CategoryId": 2,
+      "content": "ini bio",
+      "id": 19
+    },
+    {
+      "title": "haaalllll",
+      "imgUrl": "tes",
+      "CategoryId": 3,
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "name": "",
+      "id": 20
+    },
+    {
+      "title": "diaaaaassssss",
+      "slug": "diaaaaassssss",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "authorId": 1,
+      "id": 21
+    }
+  ],
+  "categories": [
+    {
+      "name": "Agamass",
+      "id": 5
+    },
+    {
+      "name": "Nasionals",
+      "id": 6
+    },
+    {
+      "name": "Masyarakat",
+      "id": 8
+    },
+    {
+      "name": "Lukisan",
+      "id": 9
+    },
+    {
+      "name": "Franky",
+      "id": 10
+    },
+    {
+      "name": "Sosial",
+      "id": 11
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "postId": 1,
+      "name": "DPR",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "postId": 2,
+      "name": "MPR",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "postId": 3,
+      "name": "DPRD",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 4,
+      "postId": 4,
+      "name": "POLRI",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 5,
+      "postId": 5,
+      "name": "TNI",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 6,
+      "postId": 6,
+      "name": "Medan",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 7,
+      "postId": 7,
+      "name": "wty",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 8,
+      "postId": 8,
+      "name": "pcd",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 9,
+      "postId": 9,
+      "name": "hwj",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 10,
+      "postId": 10,
+      "name": "swe",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 11,
+      "postId": 1,
+      "name": "abd",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 12,
+      "postId": 2,
+      "name": "ZAB",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 13,
+      "postId": 3,
+      "name": "WXY",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 14,
+      "postId": 4,
+      "name": "TUV",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 15,
+      "postId": 5,
+      "name": "QRS",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 16,
+      "postId": 6,
+      "name": "NOP",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 17,
+      "postId": 7,
+      "name": "KLM",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 18,
+      "postId": 8,
+      "name": "HIJ",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 19,
+      "postId": 9,
+      "name": "EFG",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 20,
+      "postId": 10,
+      "name": "BCE",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 21,
+      "postId": 1,
+      "name": "ABC",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 21,
+      "postId": 9,
+      "name": "Riau",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 22,
+      "postId": 10,
+      "name": "Bengkulu",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 27,
+      "postId": 11,
+      "name": "Poso",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 31,
+      "postId": 11,
+      "name": "Surabaya",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 32,
+      "postId": 3,
+      "name": "Jakarta",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 33,
+      "postId": 6,
+      "name": "Bandung",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "username": "franky",
+      "email": "franky@mail.com",
+      "password": "12345",
+      "phone": "12345",
+      "address": "Jalan",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "username": "perwira",
+      "email": "perwira@mail.com",
+      "password": "12345",
+      "phone": "12345",
+      "address": "Jalan",
+      "createdAt": "2023-03-25T12:00:00Z",
+      "updatedAt": "2023-03-25T12:00:00Z"
+    },
+    {
+      "username": "Sibuea",
+      "email": "sibuea@mail",
+      "password": "12345",
+      "phone": "111",
+      "address": "jalan",
+      "id": 3
+    },
+    {
+      "username": "perwira",
+      "email": "frankysibuea97@gmail.com",
+      "password": "12345",
+      "phone": "111",
+      "address": "jalan",
+      "id": 4
+    }
+  ]
+}

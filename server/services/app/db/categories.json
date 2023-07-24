@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Sosial"
+  },
+  {
+    "name": "Politik",
+    "id": 2
+  },
+  {
+    "name": "Ekonomi",
+    "id": 3
+  },
+  {
+    "name": "Agama",
+    "id": 4
+  },
+  {
+    "name": "Olahraga",
+    "id": 5
+  },
+  {
+    "name": "Hukum",
+    "id": 6
+  },
+  {
+    "name": "Seni-Budaya",
+    "id": 7
+  }
+]

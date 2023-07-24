@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "postId": 1,
+    "name": "DPR"
+  },
+  {
+    "id": 2,
+    "postId": 1,
+    "name": "MPR"
+  },
+  {
+    "id": 3,
+    "postId": 1,
+    "name": "DPRD"
+  },
+  {
+    "id": 4,
+    "postId": 2,
+    "name": "POLRI"
+  },
+  {
+    "id": 5,
+    "postId": 2,
+    "name": "TNI"
+  },
+  {
+    "id": 6,
+    "postId": 2,
+    "name": "Medan"
+  },
+  {
+    "id": 7,
+    "postId": 3,
+    "name": "wty"
+  },
+  {
+    "id": 8,
+    "postId": 3,
+    "name": "pcd"
+  },
+  {
+    "id": 9,
+    "postId": 3,
+    "name": "hwj"
+  },
+  {
+    "id": 10,
+    "postId": 4,
+    "name": "swe"
+  },
+  {
+    "id": 11,
+    "postId": 4,
+    "name": "abd"
+  },
+  {
+    "id": 12,
+    "postId": 4,
+    "name": "ZAB"
+  },
+  {
+    "id": 13,
+    "postId": 5,
+    "name": "WXY"
+  },
+  {
+    "id": 14,
+    "postId": 5,
+    "name": "TUV"
+  },
+  {
+    "id": 15,
+    "postId": 5,
+    "name": "QRS"
+  },
+  {
+    "id": 16,
+    "postId": 6,
+    "name": "NOP"
+  },
+  {
+    "id": 17,
+    "postId": 6,
+    "name": "KLM"
+  },
+  {
+    "id": 18,
+    "postId": 6,
+    "name": "HIJ"
+  },
+  {
+    "id": 19,
+    "postId": 6,
+    "name": "EFG"
+  },
+  {
+    "id": 20,
+    "postId": 7,
+    "name": "BCE"
+  },
+  {
+    "id": 21,
+    "postId": 7,
+    "name": "ABC"
+  }
+]

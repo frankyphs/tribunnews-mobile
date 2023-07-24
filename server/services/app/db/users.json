@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "username": "franky",
+    "email": "franky@mail.com",
+    "password": "12345",
+    "phoneNumber": "12345",
+    "address": "Jalan"
+  },
+  {
+    "id": 2,
+    "username": "perwira",
+    "email": "perwira@mail.com",
+    "password": "12345",
+    "phoneNumber": "12345",
+    "address": "Jalan"
+  },
+  {
+    "username": "Sibuea",
+    "email": "sibuea@mail",
+    "password": "12345",
+    "phoneNumber": "111",
+    "address": "jalan",
+    "id": 3
+  },
+  {
+    "username": "perwira",
+    "email": "frankysibuea97@gmail.com",
+    "password": "12345",
+    "phoneNumber": "111",
+    "address": "jalan",
+    "id": 4
+  }
+]
